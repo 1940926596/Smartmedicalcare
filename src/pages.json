@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "智慧医养服务平台"
+      }
+    },
+    {
+      "path": "pages/index/doctorMoreInfoShow",
+      "style": {
+        "navigationBarTitleText": "更多医生"
+      }
+    },
+    {
+      "path": "pages/index/doctorOneInfo",
+      "style": {
+        "navigationBarTitleText": "医生信息"
+      }
+    },
+    {
+      "path": "pages/index/healthMoreInfoShow",
+      "style": {
+        "navigationBarTitleText": "更多健康知识"
+      }
+    },{
+      "path": "pages/message/message",
+      "style": {
+        "navigationBarTitleText":"健康知识"
+      }
+    },{
+      "path": "pages/index/userAccount",
+      "style": {
+        "navigationBarTitleText":"个人资料"
+      }
+    },{
+      "path": "pages/index/chatOneIn",
+      "style": {
+        "navigationBarTitleText":"聊天"
+      }
+    },{
+      "path": "pages/index/achievement",
+      "style": {
+        "navigationBarTitleText":"我的成就"
+      }
+    }, {
+      "path": "pages/index/class",
+      "style": {
+        "navigationBarTitleText":"我的课程"
+      }
+    }, {
+      "path": "pages/index/collection",
+      "style": {
+        "navigationBarTitleText":"我的收藏"
+      }
+    }, {
+      "path": "pages/index/prize",
+      "style": {
+        "navigationBarTitleText":"我的奖品"
+      }
+    }
+  ],
+
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
